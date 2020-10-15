@@ -1,0 +1,19 @@
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.exe.config
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.exe
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.pdb
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csprojAssemblyReference.cache
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp_Hà_Nội.Form1.resources
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp_Hà_Nội.Properties.Resources.resources
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.GenerateResource.cache
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.exe
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.pdb
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.exe.config
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.exe
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\bin\Debug\Tháp Hà Nội.pdb
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp_Hà_Nội.Form1.resources
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp_Hà_Nội.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.exe
+C:\Users\ASUS\Desktop\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.pdb
+D:\Phần mềm cá nhân\Tháp Hà Nội\Tháp Hà Nội\obj\Debug\Tháp Hà Nội.csproj.CoreCompileInputs.cache
